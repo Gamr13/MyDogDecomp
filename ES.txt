@@ -1,0 +1,352 @@
+Menú
+Pausa
+En pausa
+Selec.
+ACEPTAR
+Más
+Detalles mascota
+Certificado mascota
+Sonido
+Acerca de
+Abandonar mascota
+Salir
+Error al acceder a la página web.
+¿Deseas salir del juego?
+Reanudar
+Sí
+No
+sí
+no
+Idioma
+English
+Français
+Italiano
+Deutsch
+Español
+Atrás
+Ayuda
+Introducción
+Controles
+ 
+ 
+ 
+ 
+él
+ella
+MACHO
+HEMBRA
+Modos de juego
+My Dog cuenta con cuatro modos principales de juego. Estos modos te permiten relacionarte con tu mascota de diferentes maneras. \n\nMODO OBJETO...\n te permite seleccionar objetos, como comida o juguetes de tu casa, para dárselos a tu mascota.\n\nMODO MIMOS...\n te permite mimar y coger a tu perro. ¡También puedes llevártelo a otras habitaciones! \n\nMODO PASEO...\n te da la oportunidad de sacar a tu perro de paseo. Y si quieres más diversión, visita la tienda de animales o el concurso de mascotas.\n\nMODO OBSERVACIÓN...\n te permite seguir a tu mascota automáticamente. ¡Es una excelente manera de asegurarse de que se está comportando bien!
+Conducta mascota
+Observa la conducta de tu perro detenidamente para comprender su estado de humor y de salud. De vez en cuando, aparecerán bocadillos de pensamientos perrunos.\n\nLos bocadillos de pensamiento te comunicarán tanto las necesidades específicas de tu mascota como su estado de humor y de salud. 
+Elige el perro que te gustaría adoptar...
+Nombra a tu perro
+Introduce tu nombre
+Nombre:
+Color:
+Sexo:
+Nacido el:
+Edad:
+día(s)
+Clase:
+Dueño:
+Puntos:
+Dinero:
+Casi no has tenido tiempo de conocer a $A. ¿Seguro que quieres abandonar a tu mascota y borrar todos los datos grabados?
+$A te quiere mucho. ¿Seguro que quieres abandonar a tu mascota y borrar todos los datos grabados?
+¿Seguro que quieres abandonar a $A y borrar todos los datos grabados, después de todo lo que habéis pasado juntos?
+Es posible que $A no se recupere nunca del dolor de esta separación. ¿Seguro que quieres abandonar a tu mascota y borrar todos los datos grabados?
+My Dog te permite adoptar y cuidar a tu propio perro, y todo esto desde la comodidad de tu teléfono.\n\nAsegúrate de alimentar, lavar, mimar y entrenar a tu perro a diario para asegurarte de su buena salud y bienestar.\n\nSe te otorgará una estrella por cada día que tu mascota esté bien de salud, y habrá estrellas extra cada semana para los dueños más afectuosos.\n\nSi abandonas a tu perro, podrás ver el tutorial de nuevo.
+Muévete por la casa usando las siguientes teclas:\n\n1 - Jardín \n2 - Cocina \n3 - Salón \n\nDesplázate por los menús usando las siguientes teclas:\n\n4 - Izquierda\n6 - Derecha\n2 - Arriba\n8 - Abajo\n La tecla 5 selecciona la opción deseada.\n\nAccede al menú usando $A. Puedes poner el juego en pausa pulsando $B.\nEn algunos casos, también puedes usar las teclas de navegación y de selección.\nSi tienes un silbato, pulsa 0 para activarlo.
+Versión:
+Distribuidor: 
+Copyright:
+(C) 2006. Publicado por I-play, una marca registrada y una marca comercial de Digital Bridges Ltd. Todos los derechos reservados. 
+Asistencia:
+help@iplay.com
+Créditos
+Producción\nSteve Ramsden\n\nDiseño\nPaul Farley\n\nCódigo\nStuart Johnson\nStephen Lock\nGary Vine\n\nGráficos\nChristophe Brand\nMichael Smith\n\nControl de calidad\nChris Donaghey\n
+Más juegos
+Limpiar
+Abrir
+Cerrar
+Jardín
+Salón
+Cocina
+Palmada
+Caricia
+Cosquillas
+¿Activar el sonido?
+PULSA 5
+CARGANDO
+ 
+ 
+ 
+ 
+ 
+Añadir comida
+Añadir bebida
+Limpiar
+Guardar
+Pelota
+Pelota roja
+Pelota naranja
+Pelota azul
+Pelota negra
+Pelota de tenis
+Lavar 
+Abrir grifo
+Dorado
+Gris
+Marrón
+Blanco
+Moreno
+Plateado
+Confirmar
+Borrar
+TV: sí
+TV: no
+Chimenea: sí
+Chimenea: no
+Contenido frigo
+Cerrar frigo
+Contenido caja
+Cerrar caja
+Contenido caseta
+Cerrar caseta
+Comida
+Leche
+Filete
+Salchichas
+Pizza
+Tarta de cumpleaños
+Limonada
+Porción conejo
+Porción atún
+Porción ternera
+Tiras de bacon
+Galletas
+Costillas
+Galletas perro
+Helado
+Pavo
+Pudding de Navidad
+Zumo de naranja
+Cola
+Batido
+Ponche
+Zumo energético
+Refresco
+Zapatilla
+Zapato
+Hueso
+Cuerda
+Juguete
+Cepillo
+Anillo de goma
+ 
+Ratón de cuerda
+Peine para perros
+Peonza
+Silbato
+Juguete de goma
+Periódico
+Videojuego
+Peluche
+Coche teledirigido
+Robot
+Semillas
+Coger
+Soltar
+Volver a casa
+Dar vuelta a la manzana
+Ir al concurso
+Ir a la tienda
+¡Has encontrado $D en el suelo!
+¡Has encontrado $D en la calle!
+¡A $A le da miedo la oscuridad! ¿Crees que está bien pasear tan tarde?
+¡$A ha encontrado un charco en el que chapotea y se ensucia!
+¡$A ha visto al gato del vecino y lo persigue hasta un árbol!
+$5
+$10
+$50
+Comprar para cocina
+Comprar para salón
+Comprar para jardín
+Vender de la cocina
+Vender del salón
+Vender del jardín
+$D \n¿Seguro que quieres comprar esto por $$E?
+¡No tienes suficiente dinero para comprarlo! Vuelve más tarde.
+El frigo está lleno. Usa o vende algo para tener espacio para un nuevo artículo.
+La caja de juguetes está llena. Vende algo para tener espacio para un nuevo artículo.
+La caseta está llena. Vende algo para tener espacio para un nuevo artículo.
+¿Seguro que quieres mejorar esto por $$E?
+TIENDA CERRADA\nHorario: 7:00 a 23:00
+TIENDA CERRADA\n¡De vacaciones!
+Bienvenido a mi tienda, ¿qué desea?
+Comprar
+Vender
+Salir
+Mirar estancias
+Mirar
+Vacío
+$D \n¿Seguro que quieres vender esto por $$E?
+Sr.
+Sra.
+Sra.
+Srta.
+Dr.
+lunes
+martes
+miércoles
+jueves
+viernes
+sábado
+domingo
+GANADOR DEL DÍA:\n$B ($C)\n Perro: $D\n Dueño: $E\nPrueba de mañana:\n$F ($G)
+CONCURSO CONCLUIDO\nLa próxima prueba es el $A\n$B ($C)
+PRUEBA DEL DÍA\n$B ($C)\nInscripción: $$D\n¿Te gustaría participar?
+Lo siento, pero no tienes suficiente dinero para inscribirte en esta prueba.
+Lo siento, pero tu perro no está cualificado para esta clase de competición.
+Lo siento, pero tu perro es demasiado viejo para esta clase de competición.
+¡Visítanos pronto!\n\nLa próxima prueba es el $A y es $B ($C).
+Prueba de agilidad
+Exhibición
+Cachorro
+Junior
+Adulto
+Veterano
+Fideo
+Trivi
+Bubu
+Roberto
+Hocicos
+Reno
+Lucas
+Bala
+Bonita
+Bolita
+Dago
+Jaleo
+Furia
+Jefe
+Huesos
+Laika
+Muñeca
+Pizca
+Pochaco
+Rambo
+Gutiérrez
+Martínez
+Ramírez
+Justo
+Torres
+Jara
+Cuadrado
+Díaz
+Real
+Calzada
+Belluga
+Mulero
+Lorca
+Molina
+Torrellas
+Participantes
+Puntuando
+Resultados
+TOTAL:
+ENHORABUENA\n$A\nha ganado el\n$D de $$E.
+PRIMER PREMIO
+SEGUNDO PREMIO
+TERCER PREMIO
+Sig.
+Salir
+Hola, $B. Soy Ralph, el veterinario del barrio. ¿Tienes unos minutos para que te muestre cómo has de cuidar de $A?
+¡Genial! Tu casa tiene tres habitaciones, usa la tecla 1 para el jardín, 2 para la cocina y 3 para el salón. Vamos adentro...
+IR A COCINA\nPULSA TECLA 2
+El tiempo para las mascotas y las personas es similar. Mantén a tu mascota con buena salud dándole de comer y beber al menos dos veces al día.
+La comida y la bebida se almacenan en el frigo. El frigo es un objeto que se selecciona desde el modo OBJETO del MENÚ.
+SELECCIONA MENÚ
+Puedes desplazarte por las opciones del MENÚ usando las teclas 4 y 6. Selecciona con la tecla 5. El modo OBJETO es el icono de la caja roja.
+SELECCIONA MODO OBJETO\n4 Y 6: DESPLAZARSE / 5: SELECCIONAR
+¡Bien, ahora estás en modo OBJETO! Usa las teclas 4 y 6 para desplazarte por los objetos. Selecciona usando la tecla 5. Vamos a abrir el frigo...
+ABRIR FRIGO\n4 Y 6: DESPLAZARSE / 5: SELECCIONAR
+¡Buen trabajo! Ahora puedes seleccionar comida o bebida para $A. Desplázate usando las teclas 4, 6, 2 y 8. Selecciona con la tecla 5.
+SELECCIONA COMIDA\n4,6,2 Y 8: DESPLAZARSE / 5: SELECCIONAR
+Verás que ahora el cuenco está lleno de comida. También puedes darle a tu perro agua del grifo. ¡Es gratis!
+Para mantener a $A en forma, dale de comer dos veces al día. Vayamos al salón para que te hable de los juguetes.
+IR AL SALÓN\nPULSA TECLA 3
+¡A los perros les encanta jugar! Puedes comprar juguetes en la tienda de animales, pero yo ya te he regalado uno. Está en la caja de juguetes...
+ABRIR CAJA JUGUETES\n4 Y 6: DESPLAZARSE / 5: SELECCIONAR
+SELECCIONAR ZAPATILLA\n4, 6, 2 Y 8: DESPLAZARSE / 5: SELECCIONAR
+¡Fantástico! Vas a ser un gran dueño. Entrenar es muy importante para tu perro...
+Puedes sacar de paseo a tu perro seleccionando el modo PASEO. Es el icono de la pata azul en el MENÚ.
+SELECCIONA MODO PASEO\n4 Y 6: DESPLAZARSE / 5: SELECCIONAR
+Éste es el mapa de tu barrio. Usa el mapa para elegir dónde quieres pasear. Demos una vuelta a la manzana...
+DAR UNA VUELTA A LA MANZANA\n4 Y 6: DESPLAZARSE / 5: SELECCIONAR
+¿Has visto la tienda de animales y el concurso de mascotas? No te preocupes, hablaremos sobre ellos más adelante.
+No te sorprendas si ocurren cosas extrañas mientras paseas a tu mascota. ¡A los perros les encantan las sorpresas!
+Hay dos modos más en el MENÚ. El modo MIMOS (icono de la mano amarilla) te permite mimar a tu perro...
+El modo OBSERVACIÓN (icono del ojo verde) te permite observar a tu mascota sin molestarla.
+Espero que aún me estés escuchando... Observa a $A detenidamente, ya que te mostrará lo que está pensando...
+Los pensamientos aparecen en pequeños bocadillos y ofrecen un buen indicio sobre lo que necesita tu perro, o cómo se siente.
+Pues esto es todo lo que necesitas saber. Te visitaré de vez en cuando y te daré consejos útiles si los necesitas.
+Ah, y cuidado... ¡Si me entero de que no estás cuidando a $A como es debido, te haré una visita!
+Parece que acaban de traer a $A y te está esperando en la cocina. ¡Buena suerte!
+Soy Gladys y ésta es mi pequeña tienda de animales. ¿De verdad que es tu primera visita? No te preocupes, te la mostraré...
+Recibirás una asignación de $10 diarios. Puedes usar este dinero para comprar artículos en mi tienda...
+¿Has oído hablar de los concursos de mascotas? Te recomiendo sinceramente que participes en ellos. ¡Puedes ganar grandes premios en metálico!
+Mi tienda tiene tres estancias: cocina (comida y bebida), jardín (juguetes para la calle) y salón (juguetes para la casa). Desplázate usando las teclas 4, 6, 2 y 8. Selecciona con la tecla 5.
+SELEC. UN OBJETO\n 4, 6, 2 Y 8: DESPLAZARSE / 5: SELEC.
+Te alegrará oír que todos los precios incluyen reparto a domicilio inmediato. ¡Sin duda tengo la mejor tienda de la ciudad! 
+No sólo vendo productos, sino que también compro tus artículos usados. Pagaré la mitad del precio original si están en perfecto estado.
+Como ves, $B, mi tienda es muy popular... que no te sorprenda si algunas veces no quedan existencias.
+Para conseguir el mejor surtido, compra por la mañana temprano. Ah, y por favor... deja a tu mascota fuera. ¡No me gustan los animales!
+¡Hola! Creo que no nos conocemos. Soy Norris, el jefe del jurado en el concurso de mascotas...
+Escucha con atención, será un placer contarte cómo funcionan los concursos de mascotas...
+Cada día tiene lugar una nueva prueba, pero sólo puedes inscribir a tu perro en las competiciones de su clase...
+Los perros empiezan en la categoría de cachorro y, conforme crecen, pueden inscribirse en competiciones superiores...
+¡Inscribirse en competiciones superiores cuesta más, pero los premios son mayores! Estoy seguro de que participarás aunque sólo sea por gusto.
+Bueno, por si acaso te interesa... Los tres primeros perros de cada clase reciben un premio en metálico...
+$A competirá contra cuatro rivales. La puntuación de cada perro aparecerá tras ser evaluados por turnos.
+Asegúrate de que $A está en forma antes de participar en una prueba o será muy difícil que gane.
+Creo que no te puedo ayudar más ahora mismo. ¡Espero veros a ti y a $A en el concurso!
+¿Te has fijado en las estrellas que hay en el certificado de mascota? Cada día que tu mascota goce de buena salud, ganarás una estrella...
+Si consigues siete estrellas seguidas, recibirás una estrella semanal. Las estrellas te dan puntos. ¡A todo el mundo le gustan los puntos!
+¡Me alegra verte! ¿Has lavado ya a $A? ¡Una mascota limpia es una mascota feliz! Usa la manguera del jardín.
+Y un secreto... Tu mascota se enfadará si siempre le das la misma comida o el mismo juguete. ¡La variedad es la clave!
+¿No puedes llevar a tu mascota a donde tú quieres? Cógela en el modo MIMO y suéltala en otra habitación.
+¡Me han dicho que has comprado un silbato! Úsalo pulsando la tecla 0 para intentar hacer que tu mascota vaya a dondequiera que estés en la casa.
+¡Hola de nuevo! Tengo un gran consejo para ti... MANTÉN PULSADA la tecla 5 mientras mimas a tu perro, ¡disfrutará mucho más!
+¡$A ha tenido un gran día! ¡Has sido premiado con una estrella pequeña! 
+Has mantenido a $A en gran forma toda la semana. ¡Has ganado una estrella grande!
+Es obvio que tu mascota ha estado desatendida. Si dentro de tres días no ha habido mejoría, informaré al servicio de rescate de mascotas.
+Le he dado a $A una medicina para que recupere toda la salud. Por favor, asegúrate de cuidar mejor a tu mascota.
+La medicina no es un sustituto del cuidado diario de tu perro. Si me haces volver, tendré que retirarte tu mascota y devolverla al servicio de rescate de mascotas.
+¡Sigues sin cuidar a tu perro! ¡Tienes tres días para mejorar su salud o te lo retiraremos!
+No tengo más elección que llevarme a $A. ¡Debería darte vergüenza! Nunca he visto un animal tan mal cuidado.
+Bienestar:
+Humor:
+Salud:
+Diversión:
+la tecla de selección izquierda
+la tecla de selección derecha
+una pizza
+una pelota roja
+una pelota negra
+un juguete de goma
+ene
+feb
+mar
+abr
+may
+jun
+jul
+ago
+sep
+oct
+nov
+dic
+¿Seguro que quieres salir del juego y conectarte a Internet?
+<EOF>

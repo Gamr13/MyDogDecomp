@@ -1,0 +1,352 @@
+Menu
+Pause
+Paused
+Select
+OK
+More
+Pet Details
+Pet Certificate
+Audio
+About
+Abandon Pet
+Exit
+Failed to shell out to the web page!
+Do you wish to exit the game?
+Resume
+Yes
+No
+On
+Off
+Language
+English
+Français
+Italiano
+Deutsch
+Español
+Back
+Help
+Overview
+Controls
+him
+her
+his
+her
+he
+she
+MALE
+FEMALE
+Game Modes
+My Dog features four main game-play modes. These modes allow you to interact with your pet in a number of ways. \n\nOBJECT MODE...\n allows you to select objects, such as food and toys from the house, to give to your pet.\n\nPETTING MODE...\n lets you pet your dog and pick it up. You can even move rooms while carrying your dog! \n\nWALK MODE...\n gives you the opportunity to take your dog for a walk. Visit the Pet Shop or Pet Show for even more fun!\n\nWATCH MODE...\n allows you to follow your pet around automatically. It's a great way to make sure they are behaving themselves!
+Pet Behavior
+Watch your dog's behavior carefully to understand its mood and health. Doggy thought bubbles will also appear from time to time.\n\nThought bubbles will communicate not only the specific needs of your pet but also its mood and health.
+Please choose the dog you'd like to adopt...
+Name your dog
+Enter your name
+Name:
+Color:
+Gender:
+D.O.B.:
+Age:
+day(s)
+Class:
+Owner:
+Score:
+Cash:
+You've hardly had time to get to know $A. Are you sure you want to abandon your pet and erase all game data?
+$A loves you very much. Are you sure you want to abandon your pet and erase all game data?
+Are you sure you want to abandon $A, and erase all game data, after all you've been through together?
+$A may never recover from the pain of leaving you. Are you sure you want to abandon your pet and erase all game data?
+My Dog allows you to adopt and take care of your very own dog, all from the comfort of your phone!\n\nMake sure that you feed, wash, pet and exercise your dog on a daily basis to ensure its continued health and well being.\n\n You'll be awarded a star each day that your pet is in good health, with weekly bonus stars awarded for the most loving owners.\n\nIf you abandon your dog you will be given the chance to view the tutorial again.
+Navigate through your house using the following keys:\n\n1 - Garden \n2 - Kitchen \n3 - Living Room \n\nScroll through menus using the following keys:\n\n4 - Left\n6 - Right\n2 - Up\n8 - Down\n Key 5 selects the current option.\n\nThe menu is displayed using $A. The game can be paused by pressing $B.\nYou may also use the direction keys and selection key where appropriate.\nIf you own a dog whistle, press key 0 to activate.
+Version:
+Vendor:
+Copyright:
+(C) 2006. Published by I-play, TM and trading name of Digital Bridges Ltd. All Rights Reserved.
+Support:
+help@iplay.com
+Credits:
+Production\nSteve Ramsden\n\nDesign\nPaul Farley\n\nCode\nStuart Johnson\nStephen Lock\nGary Vine\n\nArt\nChristophe Brand\nMichael Smith\n\nQA\nChris Donaghey\n
+More Games
+Clean
+Open
+Close
+Garden
+Living Room
+Kitchen
+Pat
+Stroke
+Tickle
+Enable Sound?
+PRESS 5
+LOADING
+Food
+Drink
+Fun
+Wash
+Energy
+Add food
+Add drink
+Clean
+Put away
+Ball
+Red Ball
+Orange Ball
+Blue Ball
+Black Ball
+Tennis Ball
+Wash
+Turn On
+Golden
+Gray
+Brown
+White
+Tan
+Silver
+Confirm
+Delete
+TV On
+TV Off
+Fire On
+Fire Off
+Fridge Contents
+Close Fridge
+Toybox Contents
+Close Toybox
+Kennel Contents
+Close Kennel
+Dog Food
+Milk
+Steak
+Sausages
+Pizza
+Birthday Cake
+Lemonade
+Rabbit Chunks
+Tuna Chunks
+Beef Chunks
+Bacon Strips
+Biscuit Treats
+BBQ Ribs
+Chew Treats
+Ice Cream
+Turkey
+Christmas Pudding
+Orange Juice
+Cola
+Milkshake
+Punch
+Energy Drink
+Root Beer
+Slipper
+Shoe
+Bone
+Rope
+Tugtoy
+Brush
+Rubber Ring
+Bird House
+Clockwork Mouse
+Dog Comb
+Spinning Top
+Dog Whistle
+Squeaker Toy
+Newspaper
+Videogame
+Soft Toy
+RC Car
+Robot
+Flower Seeds
+Pick Up
+Drop
+Return to House
+Walk Around Block
+Walk to Show
+Walk to Shop
+You have found $D lying on the ground!
+You have found $D in the street! 
+$A is getting scared by the dark! Should you really be walking this late?
+$A finds a big puddle to splash around in and gets dirty!
+$A spots the neighbor's cat and chases it up a tree!
+$5
+$10
+$50
+Buy for Kitchen
+Buy for Living Room
+Buy for Garden
+Sell from Kitchen
+Sell from Living Room
+Sell from Garden
+$D \nAre you sure you want to buy this for $$E?
+You don't have enough money to buy that! Come back later.
+Your fridge is full.  Use or sell something from it to make room for a new item.
+Your toybox is full. Sell something from it to make room for a new item.
+Your kennel is full. Sell something from it to make room for a new item.
+Are you sure you want to upgrade for $$E?
+SHOP CLOSED\nOpening Hours: 7am to 11pm
+SHOP CLOSED\nOn Holiday!
+Welcome to my shop $B. What would you like to do?
+Buy
+Sell
+Exit Shop
+Browse Aisles
+Browse
+Empty 
+$D \nAre you sure you want to sell for $$E?
+Mr.
+Mrs.
+Ms.
+Miss
+Dr.
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+TODAY'S WINNER:\n$B($C)\n Dog: $D\n Owner: $E\nTomorrow's Event:\n$F($G)
+SHOW CLOSED\nNext event is on $A\n$B ($C)
+TODAY'S EVENT\n$B ($C)\nEntry: $$D\n\nWould you like to enter?
+Sorry, you don't have enough money to enter this event.
+Sorry, your dog does not qualify for this class of competition.
+Sorry, your dog is too old for this class of competition.
+Do visit us again soon!\nThe next event is on $A and is $B ($C).
+Agility Trial
+Best in Show
+Puppy
+Junior
+Adult
+Veteran
+Fido
+Trixie
+Butch
+Rover
+Hooch
+Rex
+Lucky
+Bailey
+Beauty
+Blossom
+Daggit
+Fang
+Fuddles
+Ginger
+Hunter
+Lady
+Muffin
+Nugget
+Pooch
+Rambo
+Simpson
+Smith
+Ramsden
+Houston
+Ramsay
+Barclay
+Nivens
+Herbert
+Reynolds
+Vine
+Baker
+McDuff
+Jones
+Daniels
+Donald
+Entrants
+Judging
+Results
+TOTAL:
+CONGRATULATIONS\n$A has won\n$D of $$E.
+FIRST PRIZE
+SECOND PRIZE
+THIRD PRIZE
+Next
+Quit
+Hi $B. I'm Ralph, your local vet. Can I take a few minutes to show you how to look after $A?
+Great! Your house has three rooms, use key 1 for garden, 2 for kitchen and 3 for living room. Let's go inside...
+ENTER KITCHEN\nPRESS KEY 2
+Pet time and human time are the same. Keep your pet healthy by providing food and drink at least twice daily.
+Food and drink is stored in the fridge. The fridge is an object that is selected from the OBJECT mode in the MENU.
+SELECT MENU
+You can scroll through MENU options using keys 4 and 6. Select using key 5. OBJECT mode is the red box icon.
+SELECT OBJECT MODE\n4+6 SCROLL / 5 SELECT
+Ok, now you're in OBJECT mode! Use keys 4 and 6 to scroll through objects. Select using key 5. Let's open the fridge...
+OPEN THE FRIDGE\n4+6 SCROLL / 5 SELECT
+Good work! Now you can select food or drink for $A. Scroll using keys 4, 6, 2 and 8. Select using key 5.
+SELECT DOG FOOD\n4,6,2+8 SCROLL / 5 SELECT
+You'll notice the food bowl has now been filled. You can also give your dog tap water. It's free!
+Feed your pet twice a day to keep $A healthy. Now let's move to the living room so I can tell you about toys.
+ENTER LIVING ROOM\nPRESS KEY 3
+Dogs love to play! You can buy toys from the Pet Shop but I've given you one free! It's in the toy box...
+OPEN TOY BOX\n4+6 SCROLL / 5 SELECT
+SELECT SLIPPER\n4,6,2+8 SCROLL / 5 SELECT
+Fantastic! You're going to make a great owner. Exercise is very important for your dog...
+You can take your dog for a walk by selecting WALK mode. It's the blue paw icon on the MENU.
+SELECT WALK MODE\n4+6 SCROLL / 5 SELECT
+This is a map of your neighborhood. Use the map to choose where to walk. Let's walk around the block...
+WALK AROUND THE BLOCK\n4+6 SCROLL / 5 SELECT
+Did you notice the Pet Shop and Pet Show? Don't worry you'll find out more about them later.
+Don't be surprised when strange things happen when out walking your pet. Dogs love surprises!
+There are two more modes in the MENU. PETTING mode (yellow hand icon) allows you to pet your dog...
+The WATCH mode (green eye icon) allows you to watch your pet without any disturbance.
+I hope you are still listening to me... Watch $A carefully as $D will let you know what $D is thinking...
+Thoughts appear in little bubbles and give a good indication of what your dog needs, or how they are feeling.
+Well that's all you need to know. I'll visit you now and again with some useful advice if you need it.
+Oh and be warned... If I hear that you aren't taking good care of $A I'll be back to pay you a visit!
+It sounds like $A has just been delivered and is waiting in the kitchen for you. Best of luck!
+I'm Gladys and this is my little Pet Shop. Is this really your first visit? Don't worry I'll show you around...
+You'll receive an allowance of $10 each day. You can use this money to buy items from my Pet Shop...
+Did you hear about Pet Shows? I'd strongly recommend entering them. You can win big cash prizes!
+My shop has three aisles: Kitchen (Food+Drink), Garden (Outdoor Toys) and Living Room (Indoor Toys). Scroll using keys 4,6,2+8. Select using key 5.
+SELECT AN ITEM\n 4,6,2+8 SCROLL / 5 SELECT
+You'll be glad to know all prices include fast home delivery. I'm sure I have the best store in town! 
+Not only do I sell goods I'll also buy old ones from you. I'll pay half their original value if they are in mint condition.
+As you know $B my shop is very popular so don't be surprised if sometimes I'm low on stock...
+Shop early in the day for the best choice. Oh and please leave your pet outside. I don't like animals!
+Hello! I don't think we've met before. I'm Norris and I'm the head judge at the Pet Show...
+Listen carefully and I'll be pleased to tell you how Pet Shows are run...
+A new event takes place each day but you can only enter events for your class of dog...
+Dogs begin at puppy class but as they get older they'll be able to enter advanced shows...
+Advanced shows cost more to enter but the prizes are bigger! I'm sure you'll be entering just for fun though...
+Ok just in case you are interested... Prize money is awarded for the top three dogs in each class...
+$A will compete against four rivals. Each dog's score is shown as they are judged in turn.
+Ensure $A is fit and well before entering events otherwise you won't stand a chance of winning.
+I think that's all the help I can be right now. I look forward to seeing you and $A at the show!
+Have you noticed those stars on the pet certificate? Each day your pet is in good health you'll earn a star...
+Get seven stars in a row and you'll receive a weekly star. Stars give you points. Everyone likes points!
+Nice to see you! Have you given $A a wash yet? A clean pet is a happy pet! Use the hose in the garden.
+A word in your ear... Your pet will get upset if you keep giving it the same food or toy. Variety is the key!
+Can't get your pet to go where you want it? Pick it up in PETTING mode and drop it in a new room.
+I heard you bought a dog whistle! Use it by pressing key 0 to try to get your pet to come to you from anywhere in the house.
+Hello again! I've got a great tip for you... HOLD DOWN key 5 when petting your dog, it will increase their enjoyment!
+$A has had a great day! You have been rewarded with a small star! 
+You've kept $A in great shape all week. A large star is all yours!
+Your pet is clearly being neglected. If there is no improvement within three days I'll inform Pet Rescue.
+I've given $A medication that will help it regain full health. Please ensure you take better care of your pet.
+Medicine is no replacement for the daily care of your dog. If I have to return I'll be taking your pet back to Pet Rescue.
+Yet again you're not looking after your dog! You have three days to improve its health or else we will take it off you!
+I have no choice but to take $A away. You should be ashamed of yourself! I have never seen an animal treated so poorly.
+Comfort:
+Mood:
+Health:
+Fun:
+the left Soft Key
+the right Soft Key
+a pizza
+a red ball
+a black ball
+a squeaker toy
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Are you sure you want to exit the game and connect to the internet?
+<EOF>

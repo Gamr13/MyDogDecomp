@@ -1,0 +1,352 @@
+Menu
+Pause
+En pause
+Choisir
+OK
+Suiv.
+Infos animal
+Certificat animal
+Son 
+À propos
+Abandon. animal
+Quitter
+Erreur d'accès à la page web !
+Souhaites-tu quitter la partie ?
+Reprendre
+Oui
+Non
+Oui
+Non
+Langue 
+English
+Français
+Italiano
+Deutsch
+Español
+Retour
+Aide
+Présentation
+Commandes
+ 
+ 
+ 
+ 
+il
+elle
+MÂLE
+FEMELLE
+Modes de jeu
+My Dog comprend quatre modes de jeu principaux. Ces modes te permettent d'interagir de différentes façons avec ton animal. \n\nLe mode OBJET\n te permet de sélectionner des objets de la maison, tels que de la nourriture et des jouets, pour les donner à ton animal.\n\nLe mode CARESSES\n te permet de caresser ton animal et de le prendre dans tes bras. Tu peux même changer de pièce lorsque tu le portes ! \n\nLe mode PROMENADE\n te permet de promener ton chien. Visite la boutique d'animaux ou le concours canin pour encore plus de plaisir !\n\nLe mode SURVEILLANCE\n te permet de suivre automatiquement ton chien. C'est un bon moyen de vérifier qu'il ne fait pas de bêtises !
+État du chien
+Surveille de près le comportement de ton chien pour connaître son humeur et son état de santé. Des pensées apparaissent de temps à autre sous forme de bulles.\n\nAinsi tu pourras connaître les besoins de ton chien mais aussi son humeur et son état de santé.
+Choisis l'animal que tu aimerais adopter...
+Donne-lui un nom
+Saisis ton nom
+Nom : 
+Couleur : 
+Sexe : 
+Naissance : 
+Âge : 
+jour(s)
+Catégorie :
+Maître : 
+Points : 
+Argent : 
+Tu n'as pas vraiment eu le temps d'apprendre à connaître $A. Es-tu sûr(e) de vouloir l'abandonner et effacer toutes les données de jeu ?
+$A t'adore. Es-tu sûr(e) de vouloir l'abandonner et effacer toutes les données de jeu ?
+Es-tu sûr(e) de vouloir abandonner $A et effacer toutes les données de jeu, même après tout ce que vous avez vécu ensemble ?
+$A ne se remettra peut-être jamais de votre séparation. Es-tu sûr(e) de vouloir l'abandonner et effacer toutes les données de jeu ?
+My Dog te permet d'adopter et de prendre soin de ton chien, tout cela sur ton téléphone !\n\nN'oublie pas de nourrir, laver, caresser et promener ton animal tous les jours pour qu'il soit en bonne santé et de bonne humeur.\n\nTu gagneras une étoile pour chaque jour où ton chien est en bonne santé. Des étoiles bonus sont offertes chaque semaine aux meilleurs maîtres.\n\nSi tu abandonnes ton chien, tu pourras à nouveau voir le didacticiel.
+Parcours ta maison à l'aide des touches suivantes :\n\n1 - Jardin \n2 - Cuisine \n3 - Salon \n\nParcours les menus à l'aide des touches suivantes :\n\n4 - Gauche\n6 - Droite\n2 - Haut\n8 - Bas\n La touche 5 permet de sélectionner une option.\n\nLe menu s'affiche en appuyant sur la $A. Pour mettre le jeu en pause, appuie sur la $B.\nUtilise également les touches de direction et de sélection selon les cas.\nSi tu as un sifflet pour chien, appuie sur la touche 0 pour l'activer.
+Version : 
+Vendeur : 
+Texte légal :
+(C) 2006. Édité par I-play, TM et nom commercial de Digital Bridges Ltd. Tous droits réservés.
+Assistance : 
+help@iplay.com
+Crédits : 
+Production\nSteve Ramsden\n\nConception\nPaul Farley\n\nCode\nStuart Johnson\nStephen Lock\nGary Vine\n\nGraphismes\nChristophe Brand\nMichael Smith\n\nAQ\nChris Donaghey\n
+Plus de jeux
+Nettoy.
+Ouvrir
+Fermer
+Jardin
+Salon
+Cuisine
+Tapoter
+Caresser
+Chatouiller
+Activer le son ?
+APPUIE SUR 5
+CHARGEMENT
+ 
+ 
+ 
+ 
+ 
+Aj. pâtée
+Aj. boisson
+Nettoy.
+Ranger
+Balle
+Balle rouge
+Balle orange
+Balle bleue
+Balle noire
+Balle de tennis
+Laver
+Ouvrir
+Doré
+Gris
+Marron
+Blanc
+Brun
+Argenté
+Confirmer
+Supprimer
+Allumer
+Éteindre
+Allumer
+Éteindre
+Contenu du frigo
+Fermer le frigo
+Contenu du coffre
+Fermer le coffre
+Contenu de la niche
+Fermer la niche
+Pâtée
+Lait
+Steak
+Saucisses
+Pizza
+Gâteau de fête
+Limonade
+Lapin
+Thon
+Boeuf
+Bacon
+Biscuits
+Côte de porc
+Croquettes
+Glace
+Dinde
+Bûche de Noël
+Jus d'orange
+Cola
+Milkshake
+Punch
+Boisson énerg.
+Soda
+Pantoufle
+Soulier
+Os
+Corde
+Jouet
+Brosse
+Anneau de caout.
+ 
+Souris mécanique
+Peigne
+Toupie
+Sifflet
+Jouet sonore
+Journal
+Jeu vidéo
+Peluche
+Voiture
+Robot
+Graines de fleur
+Prendre
+Poser
+Retourner à la maison
+Marcher dans le quartier
+Visiter concours
+Visiter boutique
+Tu as trouvé $D par terre !
+Tu as trouvé $D dans la rue ! 
+$A a peur du noir ! Tu ne devrais pas le promener si tard !
+$A a trouvé une grosse flaque où il patauge et se salit !
+$A a repéré le chat des voisins et le poursuit dans un arbre !
+$5
+$10
+$50
+Acheter pour cuisine
+Acheter pour salon
+Acheter pour jardin
+Vendre objet cuisine
+Vendre objet salon
+Vendre objet jardin
+$D \nEs-tu sûr de vouloir acheter cet objet pour $$E ?
+Tu n'as pas assez d'argent pour l'acheter ! Reviens plus tard.
+Ton frigo est plein.  Utilise ou vends un ou des objet(s) pour faire de la place.
+Ton coffre à jouets est plein. Vends un ou des objet(s) pour faire de la place.
+Ta niche est pleine. Vends un ou des objet(s) pour faire de la place.
+Es-tu sûr(e) de vouloir échanger cet objet contre $$E ?
+BOUTIQUE FERMÉE\nHeures d'ouverture : de 7h à 23h
+BOUTIQUE FERMÉE\nEn vacances !
+Bienvenue dans ma boutique $B. Que puis-je faire pour toi ?
+Acheter
+Vendre
+Sortir
+Parcourir rayons
+Parcourir
+Vide 
+$D \nEs-tu sûr(e) de vouloir vendre cet objet pour $$E ?
+M.
+Mme
+Mme
+Melle
+Dr
+lundi
+mardi
+mercredi
+jeudi
+vendredi
+samedi
+dimanche
+GAGNANT D'AUJOURD'HUI :\n$B ($C)\n Chien : $D\n Maître : $E\nÉvénement de demain :\n$F ($G)
+CONCOURS TERMINÉ\nProchain événement le $A\n$B ($C)
+ÉVÉNEMENT D'AUJOURD'HUI \n$B ($C)\nEntrée : $$D\n\nVeux-tu participer ?
+Désolé, tu n'as pas assez d'argent pour participer à cet événement.
+Désolé, ton chien n'a pas les qualités requises pour participer à cette compétition.
+Désolé, ton chien est trop vieux pour cette catégorie de compétition.
+Reviens nous rendre visite !\nLe prochain événement aura lieu le $A et ce sera le $B ($C).
+Test d'agilité
+Champion
+Chiot
+Junior
+Adulte
+Vétéran
+Fido
+Tamarin
+Brutus
+Razmote
+Hippon
+Rex
+Lulu
+Noirot
+Bijou
+Boulouche
+Diabolo
+Flash
+Fripouille
+Ginger
+Louis
+Lady
+Maxou
+Ness
+Pilou
+Nestor
+Simon
+Samson
+Richard
+Henry
+Rocher
+Blondeau
+Nedelec
+Hardouin
+Robillard
+Vogel
+Brochet
+Ménager
+Jamin
+Darmon
+Dufresne
+Concurrents
+Concours
+Résultats
+TOTAL  :
+FÉLICITATIONS !\n$A a gagné le \n$D de $$E.
+1er PRIX
+2e PRIX
+3e PRIX
+Suiv.
+Quitter
+Salut $B. Je m'appelle Ralph. Je suis le vétérinaire du quartier. Puis-je te montrer rapidement comment prendre soin de $A ?
+Super ! Ta maison a trois pièces. Utilise la touche 1 pour le jardin, la touche 2 pour la cuisine et la touche 3 pour le salon. Visitons l'intérieur...
+ENTRER DANS LA CUISINE\nAPPUIE SUR 2
+Les animaux et les humains se ressemblent. Pour que ton chien soit en bonne santé, donne-lui à manger et à boire au moins deux fois par jour.
+La pâtée et les boissons sont stockées dans le frigo. Le frigo est un objet qui peut être sélectionné à partir du mode OBJET dans le MENU.
+CHOISIR MENU
+Tu peux parcourir les options du MENU à l'aide des touches 4 et 6. Sélectionne à l'aide de la touche 5. Le mode OBJET correspond à l'icône de la boîte rouge.
+CHOISIR MODE OBJET\nPARCOURIR : 4 ET 6 / CHOISIR : 5
+Tu es dans le mode OBJET ! Utilise les touches 4 et 6 pour parcourir les objets. Sélectionne à l'aide de la touche 5. Ouvrons le frigo...
+OUVRIR FRIGO\nPARCOURIR : 4 ET 6 / CHOISIR : 5
+Beau travail ! Tu peux choisir de la nourriture ou des boissons pour $A. Utilise les touches 4, 6, 2 et 8. Sélectionne à l'aide de la touche 5.
+CHOISIR PÂTÉE\nPARCOURIR : 4, 6, 2 ET 8 / CHOISIR : 5
+Tu remarqueras que la gamelle a été remplie. Tu peux aussi donner de l'eau du robinet à ton chien. C'est gratuit !
+Nourris $A deux fois par jour pour qu'il soit en bonne santé. Allons à présent dans le salon pour en savoir plus sur les jouets.
+ENTRER DANS LE SALON\nAPPUYER SUR 3
+Les chiens adorent jouer ! Tu peux acheter des jouets à la boutique d'animaux, mais je t'en ai déjà offert un ! Il est dans le coffre à jouets...
+OUVRIR COFFRE\nPARCOURIR : 4 ET 6 / CHOISIR : 5
+CHOISIR PANTOUFLE\nPARCOURIR : 4, 6, 2 ET 8 / CHOISIR : 5
+Fantastique ! Tu seras un super maître. L'exercice est très important pour ton animal...
+Tu peux promener ton chien en sélectionnant le mode PROMENADE. C'est l'icône des pattes bleues dans le MENU.
+CHOISIR MODE PROMENADE\nPARCOURIR : 4 ET 6 / CHOISIR : 5
+C'est une carte du quartier. Utilise la carte pour choisir l'itinéraire de la promenade. Allons faire le tour du pâté de maisons...
+TOUR DU PÂTÉ DE MAISONS\nPARCOURIR : 4 ET 6 / CHOISIR : 5
+As-tu remarqué la boutique d'animaux et le concours canin ? Ne t'inquiète pas, tu auras d'autres infos plus tard.
+Ne sois pas surpris de voir des choses étranges se produire lorsque tu promènes ton chien. Les chiens adorent les surprises !
+Il y a deux autres modes dans le MENU. Le mode CARESSES (icône de la main jaune) te permet de caresser ton chien.
+Le mode SURVEILLANCE (icône de l'oeil vert) te permet de surveiller ton chien sans le déranger.
+J'espère que tu écoutes avec attention... Regarde bien $A car $D te laissera connaître ses pensées...
+Les pensées apparaissent dans de petites bulles pour t'indiquer l'état de santé et l'humeur de ton chien.
+Voilà, c'est tout ! Je te rendrai visite de temps en temps pour te donner des conseils si tu en as besoin.
+Une dernière chose ! Prends garde : si j'apprends que tu ne prends pas soin de $A, je reviendrai te voir !
+On dirait que $A vient juste d'arriver et t'attend dans la cuisine. Bonne chance !
+Je m'appelle Gladys. Bienvenue dans ma petite boutique d'animaux. S'agit-il vraiment de ta première visite ? Ne t'en fais pas, je vais te faire visiter...
+Tu recevras un crédit de 10 $ par jour. Tu peux utiliser cet argent pour acheter des articles dans la boutique d'animaux...
+As-tu entendu parler du concours canin ? Je te conseille vivement d'y participer car tu peux gagner de grosses sommes d'argent !
+Il y a trois rayons : pour la cuisine (aliments + boissons), le jardin (jouets de plein air) et le salon (jouets d'intérieur). Parcours-les en utilisant 4, 6, 2 et 8. Sélectionne à l'aide de la touche 5.
+CHOISIR UN OBJET\nPARCOURIR : 4, 6, 2 ET 8 / CHOISIR : 5
+Sache que la livraison rapide à domicile est incluse pour tout achat. J'ai sûrement la meilleure boutique de la ville ! 
+Je vends des objets mais je peux également en racheter. Je te paierai la moitié du prix d'origine si tu les rapportes en parfait état.
+Comme tu le sais $B, ma boutique est très populaire. Ne sois pas surpris si parfois il me manque de la marchandise !
+Viens me rendre visite le matin pour avoir le meilleur choix. Et surtout, ne laisse pas ton chien entrer dans la boutique. Je n'aime pas les animaux !
+Salut ! Je crois que c'est la première fois qu'on se rencontre. Je suis Norris, le juge en chef du concours canin.
+Écoute-moi bien car je peux t'en dire plus sur le fonctionnement des concours.
+Un nouvel événement a lieu chaque jour mais tu ne peux participer qu'aux événements pour la catégorie de ton chien.
+Ton chien débute dans la catégorie chiot mais en grandissant il peut participer à des concours plus importants...
+Les droits d'entrée pour ces concours coûtent plus cher mais les récompenses sont plus élevées ! Je suis sûr que tu n'y participeras que pour t'amuser...
+Au cas où tu serais intéressé... Tu peux gagner de l'argent si ton chien figure parmi les trois premiers chiens de sa catégorie.
+$A devra faire face à quatre rivaux. Le score de chaque chien s'affiche lorsqu'il est jugé, chacun son tour.
+$A doit être en forme et en bonne santé avant de participer aux événements, sinon tu n'as aucune chance de gagner.
+Voilà, je crois que c'est tout pour le moment. J'espère te voir bientôt avec $A au concours !
+As-tu remarqué ces étoiles sur le certificat animal ? Pour chaque jour où ton chien est en bonne santé, tu gagneras une étoile.
+Obtiens sept étoiles à la suite et tu recevras une étoile bonus pour la semaine. Les étoiles te donnent des points. Tout le monde aime les points !
+Content de te voir ! As-tu déjà lavé $A ? Un animal propre est un animal heureux ! Utilise le jet dans le jardin.
+Petit conseil : ton animal ne sera pas content si tu lui donnes toujours la même nourriture ou le même jouet. La variété est la clé du bien-être !
+Ton animal ne veut pas aller là où tu veux ? Prends-le dans tes bras en utilisant le mode CARESSES et dépose-le dans une autre pièce.
+Je sais que tu as acheté un sifflet ! Appuie sur la touche 0 pour que ton chien te rejoigne où que tu sois dans la maison.
+Bonjour ! J'ai un conseil à te donner : MAINTIENS la touche 5 enfoncée lorsque tu caresses ton chien. Il sera encore plus heureux !
+$A a passé une excellente journée ! Tu es récompensé par une petite étoile ! 
+Grâce à toi, $A a été en pleine forme toute la semaine. Cette grande étoile est pour toi !
+Tu maltraites ton animal. Si tu n'améliores pas la situation d'ici trois jours, j'en informerai l'Association de défense des animaux.
+J'ai donné des médicaments à $A pour qu'il aille mieux. À l'avenir, occupe-toi mieux de ton chien.
+Les médicaments ne remplacent pas les soins quotidiens de ton chien. Si cela se reproduit, je serai obligé d'emmener ton chien à l'Association de défense des animaux.
+Tu as encore négligé ton chien ! Je te donne trois jours pour améliorer son état de santé, après quoi nous te l'enlèverons !
+Je n'ai pas le choix. Je dois emmener $A. Tu devrais avoir honte ! Je n'ai jamais vu un chien aussi négligé par son maître.
+Confort : 
+Humeur : 
+Santé : 
+Jeu : 
+touche sélection gauche
+touche sélection droite
+une pizza
+une balle rouge
+une balle noire
+un jouet sonore
+jan
+fév
+mar
+avr
+mai
+jun
+jul
+aoû
+sep
+oct
+nov
+déc
+Souhaites-tu quitter la partie et te connecter à internet ?
+<EOF>

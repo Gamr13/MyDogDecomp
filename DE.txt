@@ -1,0 +1,352 @@
+Menü
+Pause
+Pause
+Wählen
+OK
+Mehr
+Haustierinfo
+Haustierzertifikat
+Ton
+Info
+Hund aufgeben
+Beenden
+Verbindung zur Website fehlgeschlagen!
+Mit dem Spiel aufhören?
+Fortsetzen
+Ja
+Nein
+ein
+aus
+Sprache
+English
+Français
+Italiano
+Deutsch
+Español
+Zurück
+Hilfe
+Übersicht
+Steuerung
+ 
+ 
+ 
+ 
+er
+sie
+RÜDE
+HÜNDIN
+Spielmodi
+My Dog verfügt über vier Haupt-Spielmodi. Über diese Modi kannst du mit deinem Haustier auf verschiedene Arten umgehen.\n\nIm OBJEKT-MODUS\n kannst du Objekte im Haus, wie beispielsweise Futter und Spielzeug, für dein Haustier auswählen.\n\nIm STREICHEL-MODUS\n kannst du deinen Hund streicheln und ihn auf den Arm nehmen. Du kannst sogar mit dem Hund auf dem Arm von Zimmer zu Zimmer gehen!\n\nIm GASSI-MODUS\n kannst du deinen Hund Gassi führen. Um noch mehr Spass zu haben, besuche die Tierhandlung oder Hundeschau!\n\nIm BEOBACHTUNGS-MODUS\n folgst du deinem Haustier automatisch überallhin. So kannst du sicherstellen, dass es sich artig verhält!
+Haustierverhalten
+Beobachte das Verhalten deines Hundes genau, um seine Laune und Gesundheit kennen zu lernen. Von Zeit zu Zeit erscheinen Hunde-Denkblasen.\n\nDenkblasen teilen dir nicht nur die jeweiligen Bedürfnisse deines Haustiers mit, sondern auch seine Laune und Gesundheit.
+Wähle den Hund, den du adoptieren möchtest.
+Hundename
+Dein Name
+Name:
+Farbe:
+Geschlecht:
+Geboren:
+Alter:
+Tag(e)
+Klasse:
+Besitzer:
+Punkte:
+Geld:
+Du hattest kaum Zeit, $A kennen zu lernen. Willst du deinen Hund wirklich aufgeben und alle Spieldaten löschen?
+$A liebt dich sehr. Willst du deinen Hund wirklich aufgeben und alle Spieldaten löschen?
+Willst du $A wirklich aufgeben und alle Spieldaten löschen, nach allem, was ihr zusammen erlebt habt?
+$A erholt sich vielleicht nie vom Trennungsschmerz. Willst du deinen Hund wirklich aufgeben und alle Spieldaten löschen?
+Mit My Dog hast du deinen eigenen Hund ganz bequem auf deinem Handy!\n\nFüttere, wasche, streichle und bewege deinen Hund täglich, damit er gesund und zufrieden bleibt.\n\n Du bekommst jeden Tag, an dem sich dein Hund guter Gesundheit erfreut, einen Stern, mit wöchentlichen Bonussternen für die liebevollsten Besitzer.\n\nWenn du deinen Hund aufgibst, kannst du das Lernprogramm noch einmal durchlaufen.
+Navigiere mit den folgenden Tasten durch dein Haus:\n\n1 - Garten \n2 - Küche \n3 - Wohnzimmer \n\nScrolle mit den folgenden Tasten durch die Menüs:\n\n4 - nach links\n6 - nach rechts\n2 - nach oben\n8 - nach unten\n Mit Taste 5 wählst du die aktuelle Option.\n\nDas Menü wird mit $A angezeigt. Mit $B gelangst du ins Pausenmenü.\nVerwende die Richtungstasten und die Aktionstaste, wo sie erforderlich sind.\nWenn du eine Hundepfeife hast, aktivierst du sie mit 0.
+Version:
+Anbieter:
+Copyright:
+(C) 2006. Herausgegeben von I-play, TM und Handelsname von Digital Bridges Ltd. Alle Rechte vorbehalten.
+Kundendienst:
+help@iplay.com
+Mitwirkende:
+Produktion\nSteve Ramsden\n\nDesign\nPaul Farley\n\nCode\nStuart Johnson\nStephen Lock\nGary Vine\n\nGrafik\nChristophe Brand\nMichael Smith\n\nQS\nChris Donaghey\n
+Weitere Spiele
+Säubern
+Öffnen
+Schließen
+Garten
+Wohnzimmer
+Küche
+Tätscheln
+Streicheln
+Kitzeln
+Ton aktivieren?
+5 DRÜCKEN
+LÄDT
+ 
+ 
+ 
+ 
+ 
+Füttern
+Wasser geben
+Säubern
+Wegräumen
+Ball
+Roter Ball
+Oranger Ball
+Blauer Ball
+Schwarzer Ball
+Tennisball
+Waschen
+Aufdrehen
+Golden
+Grau
+Braun
+Weiß
+Hellbraun
+Silber
+Bestätigen
+Löschen
+TV ein
+TV aus
+Feuer an
+Feuer aus
+Kühlschrankinhalt
+Kühlschrank zu
+Inhalt Spielzeugkiste
+Spielzeugkiste zu
+Inhalt Hundehütte
+Hundehütte zu
+Hundefutter
+Milch
+Steak
+Würstchen
+Pizza
+Geburtstagstorte
+Limonade
+Kaninchenstücke
+Thunfischstücke
+Rindfleischstücke
+Speckstreifen
+Hundekuchen
+Rippchen
+Kauknochen
+Eiscreme
+Pute
+Pudding
+Orangensaft
+Cola
+Milchshake
+Bowle
+Energy Drink
+Malzbier
+Hausschuh
+Schuh
+Knochen
+Seil
+Schleuderball
+Bürste
+Gummiring
+ 
+Aufziehmaus
+Hundekamm
+Kreisel
+Hundepfeife
+Quietschtier
+Zeitung
+Videospiel
+Stofftier
+Spielauto
+Roboter
+Blumensamen
+Hochnehmen
+Absetzen
+Zurück zum Haus
+Um den Block gehen
+Zur Hundeschau
+Zum Laden gehen
+Du hast $D auf dem Boden gefunden!
+Du hast $D auf der Straße gefunden! 
+$A hat Angst im Dunkeln! Musst du wirklich so spät unterwegs sein?
+$A findet eine große Pfütze zum Herumspritzen und wird dreckig!
+$A entdeckt die Nachbarskatze und jagt sie auf einen Baum!
+$5
+$10
+$50
+Für Küche kaufen
+Für Wohnzimmer kaufen
+Für Garten kaufen
+Aus Küche verkaufen
+Aus Wohnzimmer verk.
+Aus Garten verkaufen
+$D \nMöchtest du das wirklich für $$E kaufen?
+Du hast nicht genug Geld dafür. Komm später wieder.
+Dein Kühlschrank ist voll. Verbrauche oder verkaufe etwas daraus, um Platz für etwas Neues zu schaffen.
+Deine Spielzeugkiste ist voll. Verkaufe etwas daraus, um Platz für etwas Neues zu schaffen.
+Deine Hundehütte ist voll. Verkaufe etwas daraus, um Platz für etwas Neues zu schaffen.
+Möchtest du das wirklich für $$E eintauschen?
+LADEN GESCHLOSSEN\nÖffnungszeiten: 7 bis 23 Uhr
+LADEN GESCHLOSSEN\nIm Urlaub!
+Willkommen in meinem Laden, $B. Was möchtest du tun?
+Kaufen
+Verkaufen
+Laden verlassen
+Regale anschauen
+Durchsuchen
+Leer 
+$D \nMöchtest du das wirklich für $$E verkaufen?
+Herr
+Frau
+Frau
+Frl.
+Dr.
+Montag
+Dienstag
+Mittwoch
+Donnerstag
+Freitag
+Samstag
+Sonntag
+HEUTIGER SIEGER:\n$B ($C)\n Hund: $D\n Besitzer: $E\nVeranstaltung morgen:\n$F ($G)
+HUNDESCHAU GESCHLOSSEN\nNächste Veranstaltung am $A\n$B ($C)
+TAGESVERANSTALTUNG\n$B ($C)\nTeilnahme: $$D\n\nMöchtest du teilnehmen?
+Leider hast du nicht genug Geld, um an dieser Veranstaltung teilzunehmen.
+Leider ist dein Hund nicht berechtigt, an dieser Wettbewerbsklasse teilzunehmen.
+Leider ist dein Hund zu alt für diese Wettbewerbsklasse.
+Besuch uns bald wieder!\nDie nächste Veranstaltung ist am $A: $B ($C)
+Wendigkeitstest
+Hunde-Show
+Welpe
+Junior
+Erwachsener
+Senior
+Pluto
+Pixie
+Snoopy
+Bello
+Basti
+Rex
+Lucky
+Polly
+Lea
+Franzi
+Mona
+Fang
+Robin
+Leo
+Sissi
+Lady
+Lassie
+Goldie
+Waldi
+Scholl
+Schneider
+Schmidt
+Meier
+Becker
+Müller
+Holst
+Hussmann
+Gerster
+Ebbeler
+Wenzel
+Ackermann
+Sommer
+Kruse
+Pfeiffer
+Reich
+Teilnehmer
+Bewertung
+Ergebnisse
+GESAMT:
+GLÜCKWUNSCH\n$A hat den\n$D gewonnen: $$E
+1. PREIS
+2. PREIS
+3. PREIS
+Weiter
+Beenden
+Hallo $B. Ich bin Ralph, dein Tierarzt. Kann ich dir kurz die Pflege von $A erklären?
+Prima! Dein Haus hat drei Zimmer. Drücke Taste 1 für den Garten, 2 für die Küche und 3 für das Wohnzimmer. Lass uns hineingehen.
+IN DIE KÜCHE GEHEN\nTASTE 2 DRÜCKEN
+Wie wir auch, haben Haustiere einen bestimmten Tagesablauf. Gib deinem Hund mindestens zweimal täglich zu essen und zu trinken, damit er gesund bleibt.
+Futter und Getränke werden im Kühlschrank aufbewahrt. Der Kühlschrank wird im MENÜ im OBJEKT-Modus ausgewählt.
+MENÜ AUSWÄHLEN
+Du kannst mit den Tasten 4 und 6 durch die MENÜ-Optionen scrollen. Zum Auswählen drückst du Taste 5. Der OBJEKT-Modus ist das rote Kastensymbol.
+OBJEKT-MODUS AUSWÄHLEN\n4+6: SCROLLEN / 5: AUSWÄHLEN
+Ok, jetzt befindest du dich im OBJEKT-Modus! Verwende Taste 4 und 6 zum Scrollen durch die Objekte. Zum Auswählen drückst du Taste 5. Öffne mal den Kühlschrank.
+KÜHLSCHRANK ÖFFNEN\n4+6: SCROLLEN / 5: AUSWÄHLEN
+Gute Arbeit! Nun kannst du Futter und Getränke für $A auswählen. Mit den Tasten 4, 6, 2 und 8 scrollst du. Zum Auswählen drückst du Taste 5.
+HUNDEFUTTER AUSWÄHLEN\n4, 6, 2 + 8: SCROLLEN / 5: AUSWÄHLEN
+Der Futternapf ist jetzt voll. Du kannst deinem Hund auch Leitungswasser geben. Das kostet nichts!
+Füttere deinen Hund zweimal am Tag, damit $A gesund bleibt. Lass uns in das Wohnzimmer gehen, damit ich dir das Spielzeug erklären kann.
+IN DAS WOHNZIMMER GEHEN\nTASTE 3 DRÜCKEN
+Hunde spielen gern! Du kannst Spielzeug in der Tierhandlung kaufen, aber ich habe dir eins geschenkt! Es ist in der Spielzeugkiste.
+SPIELZEUGKISTE ÖFFNEN\n4+6: SCROLLEN / 5: AUSWÄHLEN
+HAUSSCHUH AUSWÄHLEN\n4, 6, 2 + 8: SCROLLEN / 5: AUSWÄHLEN
+Fantastisch! Du wirst ein großartiger Besitzer sein. Bewegung ist sehr wichtig für deinen Hund.
+Du kannst mit deinem Hund im GASSI-Modus spazieren gehen. Das ist das blaue Pfotensymbol im MENÜ.
+GASSI-MODUS AUSWÄHLEN\n4+6: SCROLLEN / 5: AUSWÄHLEN
+Dies ist eine Karte deiner Nachbarschaft. Mit dieser Karte kannst du einen Spaziergang festlegen. Lass uns um den Block gehen...
+UM DEN BLOCK GEHEN\n4+6: SCROLLEN / 5: AUSWÄHLEN
+Hast du die Tierhandlung und die Hundeschau bemerkt? Keine Sorge, du wirst später mehr darüber erfahren.
+Wundere dich nicht, wenn während des Spaziergangs merkwürdige Dinge passieren. Hunde lieben Überraschungen!
+Es gibt noch zwei weitere Modi im MENÜ. Mit dem STREICHEL-Modus (gelbes Handsymbol) kannst du deinen Hund streicheln.
+Mit dem BEOBACHTUNGS-Modus (grünes Augensymbol) kannst du deinen Hund beobachten, ohne ihn zu stören.
+Ich hoffe, du passt noch auf. Beobachte deinen Hund aufmerksam, gleich lässt $A dich wissen, was $D gerade denkt.
+Gedanken erscheinen in kleinen Denkblasen und sind ein guter Hinweis auf die Bedürfnisse und Gefühle deines Hundes.
+Das ist erst einmal alles, was du wissen musst. Ich werde dir, wenn nötig, ab und zu ein paar nützliche Ratschläge geben.
+Ich warne dich - wenn ich höre, dass du $A vernachlässigst, werde ich dir einen Besuch abstatten!
+Sieht so aus, als sei $A gerade eingetroffen und wartet in der Küche auf dich. Viel Glück!
+Ich heiße Gladys und dies ist meine kleine Tierhandlung. Ist das wirklich dein erster Besuch? Keine Sorge, ich bin hier, um dir zu helfen.
+Jeden Tag bekommst du $10. Du kannst mit dem Geld Artikel aus meiner Tierhandlung kaufen.
+Hast du von den Hundeschauen gehört? Ich empfehle dir sehr, dabei mitzumachen. Du kannst super Geldpreise gewinnen!
+Mein Laden hat drei Regalreihen: Küche (Futter + Getränke), Garten (Spielzeug für draußen) und Wohnzimmer (Spielzeug für drinnen). Scrolle mit den Tasten 4, 6, 2 + 8. Zum Auswählen drückst du Taste 5.
+ARTIKEL AUSWÄHLEN\n4, 6, 2 + 8: SCROLLEN / 5: AUSWÄHLEN
+Du wirst dich freuen, dass alle Artikel schnell und gratis ins Haus geliefert werden. Ich habe bestimmt den besten Laden der Stadt! 
+Ich verkaufe nicht nur Produkte, sondern kaufe auch alte von dir. Ich zahle die Hälfte des ursprünglichen Preises, wenn sie in einwandfreiem Zustand sind.
+Wie du weißt, $B, ist mein Laden sehr beliebt, wundere dich also nicht, wenn der Vorrat manchmal zur Neige geht.
+Die größte Auswahl gibt es früh am Morgen. Und bitte lass deinen Hund draußen. Ich mag keine Tiere!
+Hallo! Wir kennen uns wohl noch nicht. Ich heiße Norris und bin der leitende Richter bei der Hundeschau.
+Pass gut auf und ich erzähle dir gern, wie Hundeschauen ablaufen.
+Jeden Tag findet eine neue Veranstaltung statt, du kannst aber nur an denen für deine Hundeklasse teilnehmen.
+Die Hunde beginnen mit der Welpenklasse, aber mit zunehmendem Alter können sie auch in anderen Klassen antreten.
+Fortgeschrittene Veranstaltungen kosten mehr, aber dafür ist auch das Preisgeld höher! Bestimmt machst du sowieso nur mit, um Spaß zu haben.
+Nur für den Fall, dass es dich interessiert: Das Preisgeld geht an die drei besten Hunde in jeder Klasse.
+$A tritt gegen vier Gegner an. Die Bewertung für jeden Hund wird der Reihe nach angezeigt.
+Es ist wichtig, dass $A vor der Teilnahme an Veranstaltungen fit und gesund ist, sonst hast du keine Chance zu gewinnen.
+Ich denke, das ist momentan alles. Ich freue mich darauf, dich und $A bei der Hundeschau zu sehen!
+Hast du die Sterne auf dem Haustierzertifikat bemerkt? Jeden Tag, den sich dein Haustier guter Gesundheit erfreut, bekommst du einen Stern.
+Mit sieben Sternen hintereinander bekommst du einen Wochenstern. Mit Sternen erhältst du Punkte. Jeder mag Punkte!
+Schön, dich zu sehen! Hast du $A schon gewaschen? Ein sauberes Haustier ist ein glückliches Tier! Du kannst den Schlauch im Garten benutzen.
+Noch ein kleiner Tipp. Dein Hund mag nicht jeden Tag das gleiche Futter oder Spielzeug. Abwechslung ist wichtig!
+Du kannst dein Haustier nicht an den gewünschten Ort bringen? Hebe es im STREICHEL-Modus auf und setze es in einem anderen Zimmer ab.
+Ich habe gehört, dass du eine Hundepfeife gekauft hast! Benutze sie durch Drücken der Taste 0, dann kommt dein Hund aus jedem Zimmer zu dir gelaufen.
+Hallo! Ich habe einen tollen Tipp für dich: HALTE die Taste 5 GEDRÜCKT, wenn du deinen Hund streichelst, dann macht es ihm noch mehr Spaß!
+$A hatte einen super Tag! Du bekommst einen kleinen Stern! 
+$A war die ganze Woche in Topform. Du bekommst einen großen Stern!
+Dein Haustier wird offensichtlich vernachlässigt. Wenn in den nächsten drei Tagen keine Besserung eintritt, werde ich den Tierschutz informieren.
+Ich habe $A Medikamente gegeben, die deinen Hund wieder ganz gesund machen werden. Du solltest besser auf dein Haustier aufpassen.
+Medikamente sind kein Ersatz für die tägliche Pflege deines Hundes. Wenn ich wiederkommen muss, nehme ich dein Haustier wieder mit ins Tierheim.
+Du kümmerst dich wieder nicht um deinen Hund! Du hast drei Tage Zeit, seine Gesundheit zu verbessern, sonst nehmen wir ihn dir weg!
+Du lässt mir keine Wahl, als dir $A wegzunehmen. Du solltest dich schämen! Ich habe ein Tier noch nie so schlecht behandelt gesehen.
+Komfort:
+Laune:
+Gesundheit:
+Spaß:
+der linken Auswahltaste
+der rechten Auswahltaste
+eine Pizza
+1 roten Ball
+1 schwarzen Ball
+ein Quietschtier
+Jan
+Feb
+Mär
+Apr
+Mai
+Jun
+Jul
+Aug
+Sep
+Okt
+Nov
+Dez
+Bist du sicher, dass du das Spiel beenden und mit dem Internet verbunden werden willst?
+<EOF>

@@ -1,0 +1,352 @@
+Menu
+Pausa
+In pausa
+Seleziona
+OK
+Avanti
+Dati cucciolo
+Certificato cucciolo
+Audio
+Info
+Abbandona cucc.
+Esci
+Impossibile accedere alla pagina Web
+Uscire dal gioco?
+Riprendi
+Sì
+No
+Sì
+No
+Lingua
+English
+Français
+Italiano
+Deutsch
+Español
+Ind.
+Guida
+Introduzione
+Comandi
+ 
+ 
+ 
+ 
+ 
+ 
+MASCHIO
+FEMMINA
+Modalità
+My Dog presenta 4 principali modalità di gioco, che consentono di interagire col cucciolo in modi diversi. \n\nMODALITÀ OGGETTI...\nConsente di selezionare oggetti, quali cibo e giochi dalla casa, per darli al cucciolo.\n\nMODALITÀ COCCOLE...\nTi consente di accarezzare e prendere in braccio il cane. Puoi anche spostarti di stanza con il cane. \n\nMODALITÀ PASSEGGIO...\nTi offre la possibilità di portare il cane a fare una passeggiata. Visita il negozio di animali o lo show!\n\nMODALITÀ OSSERVA...\nTi consente di seguire il cucciolo automaticamente. Ideale per controllare come si comporta!
+Comportamento
+Osserva attentamente il comportamento del cane per capirne l'umore e lo stato di salute. Ogni tanto compariranno anche dei fumetti.\n\nI fumetti non comunicano solamente le esigenze specifiche del cucciolo, ma anche il suo umore e stato di salute.
+Scegli il cane che desideri adottare...
+Nome del cane
+Inserisci il tuo nome
+Nome:
+Colore:
+Sesso:
+Nato il:
+Età:
+giorni
+Classe:
+Padrone:
+Punti:
+Denaro:
+Hai avuto poco tempo per conoscere $A. Vuoi davvero abbandonare il tuo cucciolo ed eliminare tutti i dati di gioco?
+$A ti vuole tanto bene. Vuoi davvero abbandonare il tuo cucciolo ed eliminare tutti i dati di gioco?
+Dopo tutto il tempo passato insieme, vuoi davvero abbandonare $A ed eliminare tutti i dati di gioco?
+$A potrebbe non riprendersi dal dolore del distacco. Vuoi davvero abbandonare il tuo cucciolo ed eliminare tutti i dati di gioco?
+Con My Dog puoi adottare un cane e prendertene cura usando il tuo telefonino!\n\nDagli da mangiare, lavalo, accarezzalo e fallo camminare ogni giorno per far sì che sia felice e in buona salute.\n\n Otterrai una stella per ogni giorno in cui il cucciolo è in buona salute e stelle bonus settimanali se sarai un padrone particolarmente affettuoso.\n\nSe abbandonerai il tuo cane, ti verrà concessa la possibilità di vedere nuovamente l'esercitazione.
+Spostati nella casa usando i seguenti tasti:\n\n1 - Giardino \n2 - Cucina \n3 - Salotto \n\nNaviga nei menu usando i seguenti tasti:\n\n4 - Sinistra\n6 - Destra\n2 - Su\n8 - Giù\n Il tasto 5 seleziona l'opzione attuale.\n\nAl menu si accede usando il $A. Per attivare la pausa, usa il $B.\nPuoi anche usare i tasti direzionali e il tasto di selezione, dove appropriato.\nSe possiedi un fischietto, premi il tasto '0' per attivarlo.
+Versione:
+Editore:
+Copyright:
+(C) 2006. Pubblicato da I-play, TM e nome commerciale di Digital Bridges Ltd. Tutti i diritti riservati.
+Supporto:
+help@iplay.com
+Ringraziamenti:
+Produzione\nSteve Ramsden\n\nProgettazione\nPaul Farley\n\nProgrammazione\nStuart Johnson\nStephen Lock\nGary Vine\n\nGrafica\nChristophe Brand\nMichael Smith\n\nCQ\nChris Donaghey\n
+Altri giochi
+Pulisci
+Apri
+Chiudi
+Giardino
+Salotto
+Cucina
+Coccole
+Carezze
+Solletico
+Attivare audio?
+PREMI 5
+CARICAMENTO
+ 
+ 
+ 
+ 
+ 
+Agg. cibo
+Agg. bevanda
+Pulisci
+Riponi
+Palla
+Palla rossa
+Palla arancione
+Palla blu
+Palla nera
+Palla da tennis
+Lava
+Apri acqua
+Dorato
+Grigio
+Marrone
+Bianco
+Bruno
+Argentato
+Conferma
+Elimina
+Acc. TV
+Spegni TV
+Acc. camino
+Spegni camino
+Contenuto frigo
+Chiudi frigo
+Contenuto giochi
+Chiudi giochi
+Contenuto cuccia
+Chiudi cuccia
+Cibo cane
+Latte
+Carne
+Salsicce
+Pizza
+Torta di compleanno
+Limonata
+Carne di coniglio
+Tonno
+Carne di manzo
+Pancetta
+Biscotti
+Costolette
+Crocchette per cani
+Gelato
+Tacchino
+Panettone
+Succo d'arancia
+Cola
+Frullato
+Punch
+Bevanda energetica
+Gassosa
+Pantofola
+Scarpa
+Osso
+Corda
+Giochino
+Spazzola
+Anello di gomma
+ 
+Topolino a corda
+Pettine
+Trottola
+Fischietto
+Gioco di gomma
+Giornale
+Videogioco
+Peluche
+Macchina
+Robot
+Semi di fiori
+Prendi
+Lascia
+Torna a casa
+Fai il giro dell'isolato
+Vai allo show
+Vai al negozio
+Hai trovato $D per terra!
+Hai trovato $D per strada! 
+$A ha paura del buio! Non è un po' tardi per una passeggiata?
+$A si getta in una pozzanghera e si sporca!
+$A vede il gatto dei vicini e lo insegue su un albero!
+$5
+$10
+$50
+Compra per cucina
+Compra per salotto
+Compra per giardino
+Vendi dalla cucina
+Vendi dal salotto
+Vendi dal giardino
+$D \nComprare questo oggetto per $$E?
+Non hai abbastanza soldi. Torna più tardi.
+Il frigo è pieno.  Usa o vendi qualcosa per far spazio a un nuovo oggetto.
+La scatola dei giochi è piena. Vendi qualcosa per far spazio a un nuovo oggetto.
+La cuccia è piena. Vendi qualcosa per far spazio a un nuovo oggetto.
+Scambiare per $$E?
+CHIUSO\nOrario di apertura: 7-11
+Chiuso\nper ferie
+Benvenuto al negozio. Cosa vuoi fare?
+Compra
+Vendi
+Esci
+Guarda scaffali
+Guarda
+Vuoto 
+$D \nVendere questo oggetto per $$E?
+Sig.
+Sig.ra
+Sig.ra
+Sig.na
+Dr.
+Lunedì
+Martedì
+Mercoledì
+Giovedì
+Venerdì
+Sabato
+Domenica
+VINCITORE DI OGGI:\n$B ($C)\n Cane: $D\n Padrone: $E\nEvento di domani:\n$F ($G)
+SHOW CONCLUSO\nProssimo evento: $A\n$B ($C)
+EVENTO DI OGGI\n$B ($C)\nIscrizione: $$D\n\nVuoi iscriverti?
+Non hai abbastanza soldi per iscriverti all'evento.
+Il tuo cane non è adatto a questo tipo di gara.
+Il tuo cane è troppo vecchio per questo tipo di gara.
+Torna a visitarci!\nIl prossimo evento è $A, $B ($C).
+Prova di agilità
+Mostra canina
+Cuccioli
+Junior
+Adulto
+Veterano
+Fido
+Nerone
+Bimba
+Briciola
+Pull
+Rex
+Fluo
+Ciappy
+Bruto
+Joy
+Ciccio
+Birba
+Furia
+Laika
+Rudy
+Lady
+Lassie
+Birillo
+Pallino
+Rambo
+Rossi
+Bianchi
+Lorusso
+Brambilla
+Ferrari
+Esposito
+Caporale
+De Vecchi
+Colombo
+Milia
+Faiella
+Rossetti
+Moretti
+Ricci
+Sanna
+Concorrenti
+Show
+Risultati
+TOTALE:
+CONGRATULAZIONI\n$A ha vinto il\n$D di $$E.
+PRIMO PREMIO
+SECONDO PREMIO
+TERZO PREMIO
+Avanti
+Esci
+Salve, $B. Sono Mario il veterinario. Posso darti qualche consiglio su come prenderti cura di $A?
+Ottimo! La tua casa ha tre ambienti: giardino (tasto 1), cucina (tasto 2) e salotto (tasto 3). Entriamo...
+ENTRA IN CUCINA\nPREMI IL TASTO 2
+Come te, anche il cucciolo è soggetto allo scorrere del tempo. Per essere in forma, il tuo cucciolo deve mangiare e bere almeno due volte al giorno.
+Cibo e bevande si trovano nel frigo. Puoi selezionare il frigo dalla modalità OGGETTI nel MENU.
+SELEZIONA MENU
+Scorri le opzioni del MENU con i tasti 4 e 6. Usa il tasto 5 per selezionare. La modalità OGGETTI è l'icona della scatola rossa.
+SELEZIONA MOD. OGGETTI\n4+6: SCORRI / 5: SELEZIONA
+Ok, ora sei in modalità OGGETTI! Usa i tasti 4 e 6 per scorrere gli oggetti. Usa il tasto 5 per selezionare. Apriamo il frigo...
+APRI IL FRIGO\n4+6: SCORRI / 5: SELEZIONA
+Ottimo lavoro! Ora puoi scegliere cibo e bevande per $A. Scorri usando i tasti 4, 6, 2 e 8. Usa il tasto 5 per selezionare.
+SELEZIONA CIBO\n4,6,2+8: SCORRI / 5: SELEZIONA
+La ciotola adesso è piena. Puoi anche dare al tuo cane acqua del rubinetto: è gratis!
+Per tenere $A in forma, dagli da mangiare due volte al giorno. Ora andiamo in salotto per parlare dei giocattoli.
+ENTRA IN SALOTTO\nPREMI IL TASTO 3
+I cani adorano giocare! Puoi comprare i giochi al negozio, ma te ne ho regalato uno! È nella scatola dei giocattoli...
+APRI LA SCATOLA\n4+6: SCORRI / 5: SELEZIONA
+SELEZIONA PANTOFOLA\n4,6,2+8: SCORRI / 5: SELEZIONA
+Fantastico! Sarai un ottimo padrone. L'esercizio fisico è molto importante per il tuo cane...
+Puoi portare il tuo cane a passeggio selezionando la modalità PASSEGGIO. È l'icona della zampa blu nel MENU.
+SELEZIONA MOD. PASSEGGIO\n4+6: SCORRI / 5: SELEZIONA
+Questa è una mappa del quartiere. Usa la mappa per scegliere dove andare. Facciamo il giro dell'isolato...
+FAI IL GIRO DELL'ISOLATO\n4+6: SCORRI / 5: SELEZIONA
+Hai visto il negozio di animali e lo show? Scoprirai più avanti maggiori informazioni su di essi.
+Non sorprenderti se accadono cose bizzarre quando porti a spasso il cane. I cani adorano le sorprese!
+Il MENU contiene altre due modalità. La modalità COCCOLE (icona della mano gialla) ti consente di fare le coccole al tuo cane...
+La modalità OSSERVA (icona dell'occhio verde) ti consente di sorvegliare il cane senza disturbarlo.
+Osserva attentamente il tuo cane: $A ti farà capire cosa sta pensando...
+I pensieri compaiono in piccoli fumetti e indicano ciò di cui il cane ha bisogno oppure i sentimenti che sta provando.
+Credo che per ora sia tutto. Ti verrò a trovare di tanto in tanto con qualche consiglio se ne avrai bisogno.
+E ricorda: tornerò a trovarti se vengo a sapere che non ti stai prendendo cura di $A!
+Hanno appena consegnato $A, ti sta aspettando in cucina. Buona fortuna!
+Io sono Giulia e questo è il mio negozio di animali. È la tua prima visita? Non preoccuparti, adesso ti spiego tutto...
+Ogni giorno riceverai un assegno di $10. Puoi usare questi soldi per comprare oggetti dal mio negozio...
+Hai sentito parlare degli show? Ti consiglio di parteciparvi, perché potrai vincere grossi premi in denaro!
+Il mio negozio ha tre aree: cucina (cibo e bevande), giardino (giochi da esterno) e salotto (giochi da interno). Scorri usando i tasti 4, 6, 2 e 8. Usa il tasto 5 per selezionare.
+SELEZIONA UN OGGETTO\n4,6,2+8: SCORRI / 5: SELEZIONA
+Tutti i prezzi includono una rapida consegna a domicilio. Il mio negozio è il migliore della città! 
+Oltre a vendere nuovi articoli, compro anche oggetti usati. Pago la metà del loro valore originale se sono in ottime condizioni.
+Come sai, $B, il mio negozio è molto frequentato. Quindi non sorprenderti se ogni tanto le scorte scarseggiano...
+Per avere più scelta, fai i tuoi acquisiti al mattino presto. E per favore, lascia il cane fuori dalla porta. Non mi piacciono gli animali!
+Salve! Non credo che ci siamo già incontrati. Mi chiamo Stefano e sono il giudice degli show di animali...
+Sarò lieto di spiegarti come funzionano le gare...
+Ogni giorno c'è un nuovo evento, ma puoi partecipare solamente alle gare adatte alla categoria del tuo cane...
+I cani iniziano dalla categoria cuccioli, ma crescendo potranno partecipare a gare sempre più importanti...
+L'adesione a queste gare è più costosa, ma i premi sono più sostanziosi! Però sono certo che parteciperai per puro divertimento...
+Comunque, nel caso fossi interessato... I primi tre cani di ogni categoria si aggiudicano un premio in denaro...
+$A gareggia contro quattro concorrenti. A turno, i giudici valutano ogni partecipante e gli assegnano un punteggio.
+Prima di partecipare, accertati che $A sia in forma e che stia bene o non avrai alcuna possibilità di vincere.
+Per ora credo che sia tutto. Aspetto di vederti agli show insieme a $A!
+Hai notato le stelle nel Certificato del cucciolo? Ne ottieni una per ogni giorno in cui il tuo cane è in buona salute...
+Se ottieni sette stelle consecutive, riceverai una stella settimanale. Le stelle ti fanno guadagnare punti. I punti fanno comodo a tutti!
+Come va? Hai già dato a $A una bella lavata? Il tuo cane è più felice quando è pulito! Usa il tubo di gomma che è in giardino.
+Un consiglio: il tuo cane si arrabbia se gli dai sempre lo stesso cibo o lo stesso gioco. Cerca di variare!
+Non riesci a far andare il tuo cane dove vorresti? Sollevalo in modalità COCCOLE e lascialo andare in un'altra stanza.
+Ho visto che hai comprato un fischietto! Usalo premendo il tasto 0 e il cane ti raggiungerà da qualsiasi stanza della casa.
+Salve! Ho un suggerimento da darti: TIENI PREMUTO il tasto 5 quando fai le coccole al tuo cane. Gli piacerà ancora di più!
+$A ha trascorso una bellissima giornata! Ti sei guadagnato una stella piccola! 
+Hai tenuto $A in ottima forma per l'intera settimana. Hai ottenuto una stella grande!
+Stai trascurando il tuo cucciolo. Se non ci sono miglioramenti nei prossimi tre giorni, informerò il canile.
+Ho dato a $A una medicina che aiuterà a rimettersi in salute. Devi prenderti più cura del tuo cane.
+Le medicine non possono sostituire le cure quotidiane da parte tua. Se dovrò tornare, porterò il tuo cane al canile.
+Continui a non prenderti cura del tuo cane! Hai tre giorni di tempo per far migliorare la sua salute o saremo costretti a portarlo via!
+Mi vedo costretto a portar via $A. Dovresti vergognarti! Non ho mai visto un animale così maltrattato.
+Benessere:
+Umore:
+Salute:
+Svago:
+tasto funzione sinistro
+tasto funzione destro
+una pizza
+una palla rossa
+una palla nera
+un gioco di gomma
+Gen
+Feb
+Mar
+Apr
+Mag
+Giu
+Lug
+Ago
+Set
+Ott
+Nov
+Dic
+Sei sicuro di voler uscire dal gioco per connetterti ad internet?
+<EOF>
