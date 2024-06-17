@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+MIDlet-Name: My Dog
+MIDlet-Version: 0.4.7
+MIDlet-Vendor: I-play
+MIDlet-Icon: /i.png
+MIDlet-Delete-Confirm: More free games on dedomil.net
+MIDlet-Description: Visit dedomil.net for more games!
+MIDlet-Info-URL: http://dedomil.net
+MIDlet-1: My Dog, /i.png, MyDogMIDlet
+MIDlet-Data-Size: 8000
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+Ant-Version: Apache Ant 1.6.5
+Created-By: Delivery 1.0
